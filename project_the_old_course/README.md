@@ -3,18 +3,18 @@
 # Проект 'Анализ кинопроката'
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_0/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаю)  
-[3. Краткая информация о данных](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_0/README.md#Результаты)    
-[6. Выводы](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_0/README.md#Немного-саморефлексии) 
+[1. Описание проекта](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_the_old_course/README.md#Описание-проекта)  
+[2. Какой кейс решаю?](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_the_old_course/README.md#Какой-кейс-решаю)  
+[3. Краткая информация о данных](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_the_old_course/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_the_old_course/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_the_old_course/README.md#Результаты)    
+[6. Выводы](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_the_old_course/README.md#Немного-саморефлексии) 
 
 ### Описание проекта    
 Цель проекта - провести предварительный анализ данных на основе датасета сайта IMDb (Internet Movie Database), используя возможности библиотеки Pandas.
 Задача: найти ответы на 27 статистических вопросов.
 
-:arrow_up:[к оглавлению](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_the_old_course/README.md#Оглавление)
 
 
 ### Какой кейс решаю?    
@@ -60,7 +60,7 @@
 ### Краткая информация о данных
 Используется датасет dataset.csv, сгенерированный на основе данных, собранных сервисом IMDb (Internet Movie Database).
   
-:arrow_up:[к оглавлению](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_the_old_course/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -71,14 +71,14 @@
 
 
 
-:arrow_up:[к оглавлению](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_the_old_course/README.md#Оглавление)
 
 
 ### Результаты  
 Я верно ответила на 27 из 27 вопросов:) Ответы сохранены в списке answers. 
 
 
-:arrow_up:[к оглавлению](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_the_old_course/README.md#Оглавление)
 
 
 ### Немного саморефлексии 
@@ -88,7 +88,7 @@
 3. Моим главным результатом при прохождении проекта является опыт в работе с "живыми" данными и закрепление навыков поиска решений аналитических задач.
 4. На данном этапе я умею проводить корректную предобработку данных и делать базовый анализ.
 
-:arrow_up:[к оглавлению](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_the_old_course/README.md#Оглавление)
 
 
 Если информация по этому проекту показалась вам интересной и полезной, смелее отмечайте репозиторий и профиль ⭐️⭐️⭐️-дами
