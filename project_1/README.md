@@ -1,14 +1,18 @@
 # Проект 0. Анализ резюме из HeadHunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#описание-проекта)  
-[2. Какой кейс решаю?](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#какой-кейс-решаю?)  
-[3. Краткая информация о данных](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#этапы-работы-над-проектом)  
-[5. Результат](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#результаты)    
+[1. Описание проекта](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#описание-проекта)
+<br/>  
+[2. Какой кейс решаю?](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#какой-кейс-решаю?)
+<br/>  
+[3. Краткая информация о данных](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#краткая-информация-о-данных)
+<br/>  
+[4. Этапы работы над проектом](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#этапы-работы-над-проектом)
+<br/>  
+[5. Результат](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#результаты)<br/>
 [6. Выводы](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#выводы)
-
-[7. Как лучше просматривать проект?](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#дополнительно) 
+<br/>
+[7. Как лучше просматривать проект?](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#дополнительно)
 
 ### Описание проекта    
 У нас есть база данных резюме с сайта HeadHunter, однако, в данных есть пробелы - не все соискатели указали желаемую зарплату. Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить. В этом и состоит задача моего проекта.
@@ -26,7 +30,9 @@
 
 ### Краткая информация о данных
 В проекте работаю с данными из файла database.csv, который можно скачать по ссылке https://drive.google.com/file/d/1L8SHULIQRGymK6fZ92L2xThldXDMMksZ/view?usp=share_link;
+<br/>
 Данные, которые я использовала для преобразования валют, можно найте в файле [ExchangeRates](https://github.com/VictoriaBakulina/sf_data_science/blob/main/project_1/ExchangeRates.csv);
+<br/>
 Все полученные в ходе разведывательного анализа данных графики можно найти в папке [Charts](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/Charts).
   
 :arrow_up:[к оглавлению](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#Оглавление)
