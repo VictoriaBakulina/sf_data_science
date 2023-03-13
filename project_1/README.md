@@ -40,20 +40,20 @@
 - Очищаю данные от выбросов, неинформативных признаков, пропусков.
 
 
-:arrow_up:[к оглавлению](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
 
 ### Результаты:  
 В результате я частично подготовила данные к построению по ним модели для расчета желаемой зарплаты соискателей.
 
 
-:arrow_up:[к оглавлению](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
 
 ### Выводы:  
 В ходе разведывательного анализа я обнаружила интересные зависимости в данных, о которых подробнее можете узнать из проекта.
 
-:arrow_up:[к оглавлению](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
 
 ### Дополнительно:
