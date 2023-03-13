@@ -1,17 +1,12 @@
 # Проект 0. Анализ резюме из HeadHunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#описание-проекта)
-<br/>  
-[2. Какой кейс решаю?](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#какой-кейс-решаю?)
-<br/>  
-[3. Краткая информация о данных](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#краткая-информация-о-данных)
-<br/>  
-[4. Этапы работы над проектом](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#этапы-работы-над-проектом)
-<br/>  
+[1. Описание проекта](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#описание-проекта)<br/>  
+[2. Какой кейс решаю?](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#какой-кейс-решаю?)<br/>  
+[3. Краткая информация о данных](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#краткая-информация-о-данных)<br/>  
+[4. Этапы работы над проектом](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#этапы-работы-над-проектом)<br/>  
 [5. Результат](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#результаты)<br/>
-[6. Выводы](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#выводы)
-<br/>
+[6. Выводы](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#выводы)<br/>
 [7. Как лучше просматривать проект?](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#дополнительно)
 
 ### Описание проекта    
@@ -29,7 +24,7 @@
 
 
 ### Краткая информация о данных
-В проекте работаю с данными из файла database.csv, который можно скачать по ссылке https://drive.google.com/file/d/1L8SHULIQRGymK6fZ92L2xThldXDMMksZ/view?usp=share_link;
+В проекте работаю с данными из файла database.csv, который можно скачать по [ссылке](https://drive.google.com/file/d/1L8SHULIQRGymK6fZ92L2xThldXDMMksZ/view?usp=share_link);
 <br/>
 Данные, которые я использовала для преобразования валют, можно найте в файле [ExchangeRates](https://github.com/VictoriaBakulina/sf_data_science/blob/main/project_1/ExchangeRates.csv);
 <br/>
