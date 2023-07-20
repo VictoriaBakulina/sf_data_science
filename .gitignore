@@ -128,3 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 project_1/database.csv
+
+# Connection data 
+project_db.yaml

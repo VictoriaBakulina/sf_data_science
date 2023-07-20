@@ -1,4 +1,4 @@
-# Проект 0. Анализ резюме из HeadHunter
+# Проект 1. Анализ резюме из HeadHunter
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_1/README.md#описание-проекта)<br/>
