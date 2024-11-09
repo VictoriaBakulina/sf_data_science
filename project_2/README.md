@@ -58,7 +58,7 @@
 
 
 ### Дополнительно:
-На данный момент GitHub не умеет отображать графики plotly. Поэтому, рекомендую просматривать ноутбук через [nbviewer](https://nbviewer.org/github/VictoriaBakulina/sf_data_science/blob/main/project_2/Project_about_Head_Hunter_SQL.ipynb), чтобы была возможность в одном месте посмотреть весь проект целиком вместе с интерактивными графиками. 
+На данный момент GitHub не умеет отображать интерактивные графики plotly. Поэтому, рекомендую просматривать графики через nbviewer. 
 
 :arrow_up:[к оглавлению](https://github.com/VictoriaBakulina/sf_data_science/tree/main/project_2/README.md#оглавление)
 
